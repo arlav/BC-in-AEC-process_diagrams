@@ -1,9 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T13:03:32.511Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="xdzI2TGGrR6or0ggafsk" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T13:52:15.017Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XjttVG-LdC4supneaOHZ" version="22.1.11" type="github">
   <diagram name="Page-1" id="vVFlsVhT6zbrFt94QDSL">
-    <mxGraphModel>
+    <mxGraphModel dx="760" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fywkrpFXEU4ooSgW4aDe-1" value="Oracle &amp;amp; Smart Contract Validation" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230.00000000000045" y="100" width="369.99999999999955" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="fywkrpFXEU4ooSgW4aDe-2" value="Design Agents" style="swimlane;startSize=20;html=1;" vertex="1" parent="fywkrpFXEU4ooSgW4aDe-1">
+          <mxGeometry y="20" width="129.99999999999955" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="fywkrpFXEU4ooSgW4aDe-11" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" vertex="1" parent="fywkrpFXEU4ooSgW4aDe-2">
+          <mxGeometry x="30" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fywkrpFXEU4ooSgW4aDe-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="fywkrpFXEU4ooSgW4aDe-2" source="fywkrpFXEU4ooSgW4aDe-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="54.62999999999955" y="110" as="sourcePoint" />
+            <mxPoint x="54.999999999999545" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fywkrpFXEU4ooSgW4aDe-12" value="submitted to oracle service for validation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="fywkrpFXEU4ooSgW4aDe-2">
+          <mxGeometry x="15" y="130" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fywkrpFXEU4ooSgW4aDe-3" value="Oracle Service" style="swimlane;startSize=20;html=1;" vertex="1" parent="fywkrpFXEU4ooSgW4aDe-1">
+          <mxGeometry x="129.99999999999955" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="fywkrpFXEU4ooSgW4aDe-14" value="authentication&lt;br&gt;&amp;amp;&amp;nbsp;&lt;br&gt;completion check" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="fywkrpFXEU4ooSgW4aDe-3">
+          <mxGeometry x="20" y="135" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fywkrpFXEU4ooSgW4aDe-5" value="Smart contract" style="swimlane;startSize=20;html=1;" vertex="1" parent="fywkrpFXEU4ooSgW4aDe-1">
+          <mxGeometry x="249.99999999999955" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="fywkrpFXEU4ooSgW4aDe-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="fywkrpFXEU4ooSgW4aDe-5">
+          <mxGeometry x="9.999999999999545" y="200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fywkrpFXEU4ooSgW4aDe-4" value="" style="swimlane;startSize=0;html=1;" vertex="1" collapsed="1" parent="fywkrpFXEU4ooSgW4aDe-1">
+          <mxGeometry x="369.99999999999955" y="20" height="460" as="geometry">
+            <mxRectangle x="360" y="20" width="110" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fywkrpFXEU4ooSgW4aDe-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fywkrpFXEU4ooSgW4aDe-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="380" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
