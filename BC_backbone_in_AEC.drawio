@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T10:12:54.067Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="A5zCG1ySwD9VIGTTHmTu" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T10:23:20.846Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XPLqsiyFvj1PTkceoANr" version="24.2.1" type="github">
   <diagram name="Page-1" id="YeVhmGTFw1T5ntyRjdJR">
-    <mxGraphModel dx="1853" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2110" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,8 +52,59 @@
         <mxCell id="WpXeJrbi3smK_qFVKpY1-11" value="C-D-E" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="420" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WpXeJrbi3smK_qFVKpY1-12" value="Timestamp + persistent Storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-12" value="Timestamp + Persistent Storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-240" y="480" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-13" value="Timestamp + Persistent Storage + Track of roles" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-14" value="Oracles + Validation against Digital Twin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-15" value="Digital Twin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="500" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-17" value="Physical&lt;div&gt;Twin Begins&amp;nbsp;&lt;/div&gt;&lt;div&gt;Construction&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-19" value="Oracles + Validation against Digital Twin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="555" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-20" value="Data Layer [storage]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="585" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-21" value="Payments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="680" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-23" value="Payments executed&lt;div&gt;against design KPIs&lt;/div&gt;&lt;div&gt;carbon equivalent, optimisation, performance&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-24" value="Payments executed against validation points,&amp;nbsp;&lt;div&gt;speed, quality, - payments of bonus&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-25" value="Physical&lt;div&gt;Twin&amp;nbsp;&lt;/div&gt;&lt;div&gt;concludes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-26" value="Physical&lt;div&gt;twin&amp;nbsp;&lt;/div&gt;&lt;div&gt;handover&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="310" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-27" value="Crypto-Twins Development&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the Blockchain as a backbone for the AECO industry&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="90" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-28" value="Decentralisation of Architecture and design problems" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="820" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-29" value="Knowledge gaps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="820" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-30" value="Autonomous Economic Agents" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="890" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-31" value="Decentralised Physical Infrastructure for Fabrication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="860" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-32" value="Decentralised Science for AI development in AEC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="940" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
