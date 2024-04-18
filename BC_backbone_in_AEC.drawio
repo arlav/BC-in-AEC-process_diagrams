@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T11:11:29.834Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vzfQPN2cfRT-aytWYxS7" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T11:27:51.504Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="j2iCGZF9iZNZmhDasLwS" version="24.2.1" type="github">
   <diagram name="Page-1" id="YeVhmGTFw1T5ntyRjdJR">
     <mxGraphModel dx="2034" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="WpXeJrbi3smK_qFVKpY1-26" value="Physical&lt;div&gt;twin&amp;nbsp;&lt;/div&gt;&lt;div&gt;handover&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="310" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WpXeJrbi3smK_qFVKpY1-27" value="Crypto-Twins Development&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the Blockchain as a backbone for the AECO industry&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-27" value="Crypto-Twins Development&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the Blockchain as a backbone for the AECO industry - horizon map&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-230" y="90" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WpXeJrbi3smK_qFVKpY1-28" value="Decentralisation of Architecture and design problems" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -101,10 +101,10 @@
           <mxGeometry x="100" y="850" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WpXeJrbi3smK_qFVKpY1-31" value="Decentralised Physical Infrastructure for Fabrication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="860" width="140" height="30" as="geometry" />
+          <mxGeometry x="260" y="840" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WpXeJrbi3smK_qFVKpY1-32" value="Decentralised Science for AI development in AEC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="910" width="140" height="30" as="geometry" />
+          <mxGeometry x="170" y="890" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WpXeJrbi3smK_qFVKpY1-33" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -131,7 +131,22 @@
           <mxGeometry x="20" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WpXeJrbi3smK_qFVKpY1-40" value="Filecoin?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="70" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-42" value="Federated Digital Twins&lt;div&gt;Digital Building Logbooks&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="930" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-43" value="Smart Contract + IPFS + Graph RDF storage for Digital Twins" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1030" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-44" value="Connection Between Design and Fabrication maintaining encrypted Information?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1030" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-45" value="Supply Chain Traceability&lt;div&gt;Material Passports?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="510" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpXeJrbi3smK_qFVKpY1-46" value="DataPools for AEC ? -&lt;div&gt;Make also a diagram to discuss with Iro&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1090" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
